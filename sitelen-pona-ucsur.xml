@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<keyboard bottom_row="false" width="6" name="Sitelen Pona" script="sitelen pona">
+  <row>
+    <key key0="󱤰" key1="󱥤" key2="󱤺" key3="󱥭" key4="󱤋" key7="󱥚" key8="󱥀"/>
+    <key key0="󱥫" key1="󱥇" key2="󱤖" key4="󱦠" key5="󱥝" key6="󱦢" key7="󱥐" key8="󱥥"/>
+    <key key0="󱥔" key1="󱤍" key2="󱥦" key3="󱤾" key4="󱥵" key5="󱤐" key6="󱤻" key7="󱦃" key8="󱥽"/>
+    <key key0="󱥩" key1="󱥉" key2="󱤙" key3="󱤶" key4="󱤃" key5="󱦅" key6="󱥱" key7="󱥌" key8="󱤢"/>
+    <key key0="󱥬" key1="󱥷" key2="󱥎" key3="󱥯" key4="󱦇" key5="󱥅" key6="󱦄" key7="󱤘" key8="󱦡"/>
+    <key key0="󱤗" key1="󱤚" key2="󱥸" key5="󱥋" key7="󱦁"/>
+  </row>
+  <row>
+    <key key0="󱤽" key1="󱥳" key2="󱤼" key3="󱤂" key4="󱤄" key5="󱥻" key7="󱥮" key8="󱤲"/>
+    <key key0="󱤌" key1="󱥊" key2="󱤩" key3="󱤓" key4="󱤯" key5="󱥜" key6="󱥼" key7="󱤎" key8="󱥓"/>
+    <key key0="󱤴" key1="󱤑" key2="󱥆" key3="󱤳" key4="󱤱" key5="󱤵" key6="󱤟" key7="󱥞" key8="󱥾"/>
+    <key key0="󱤧" key1="󱤉" key2="󱦓" key3="󱦐" key4="󱦑" key7="󱤡"/>
+    <key key0="󱥙" key1="󱤀" key2="󱦆" key3="󱤇" key4="󱥨" key5="󱥧" key6="󱥹" key7="󱥄" key8="󱤊"/>
+    <key key0="󱥢" key1="󱤔" key2="󱥴" key3="󱥑" key4="󱦀" key7="󱤹" key8="󱤁"/>
+  </row>
+  <row>
+    <key key0="󱤞" key1="󱥲" key2="󱥏" key3="󱤣" key4="󱤫" key8="󱤒"/>
+    <key key0="󱥣" key1="󱥿" key2="󱥶" key3="󱥈" key4="󱤷" key5="󱥖" key6="󱤆" key7="󱤈" key8="󱤨"/>
+    <key key0="󱥛" key1="󱤮" key2="󱥺" key3="󱤭" key4="󱥃" key5="󱥰" key6="󱤠" key7="󱤤" key8="󱥘"/>
+    <key key0="󱤬" key1="󱤿" key2="󱦂" key3="󱥁" key4="󱥒" key5="󱤸" key6="󱥟" key7="󱤏" key8="󱤅"/>
+    <key key0="󱥡" key1="󱤪" key2="󱥠" key3="󱥕" key4="󱦦" key5="󱤥" key6="󱤕" key7="󱥂" key8="󱦈"/>
+    <key key0="󱥪" key1="󱤝" key2="󱤛" key3="󱥗" key4="󱤦" key7="󱤜"/>
+  </row>
+  <row>
+    <key key0="change_method" key2="paste" key4="selectAll" key6="copy" key7="config"/>
+    <key width="3" slider="true" key0="space" key5="left" key6="right"/>
+    <key key0="󱦜" key1=":str symbol='&amp;':'‍'" key2=":str symbol='-':'󱦕'" key3=":str symbol='{':'󱦚'" key4=":str symbol='}':'󱦛'" key5=":str symbol='(':'󱦗'" key6=":str symbol=')':'󱦘'" key7=":str symbol='+':'󱦖'" key8="󱦝"/>
+    <key key0="backspace" key7="enter"/>
+  </row>
+</keyboard>
