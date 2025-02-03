@@ -1,3 +1,34 @@
-|toki pona (with sitelen pona buttons)|sitelen pona (nasin nanpa UCSUR)|
-|-|-|
-|tested on [Unexpected Keyboard 1.30.3](https://github.com/Julow/Unexpected-Keyboard/releases/tag/1.30.3) with [nasin nanpa 4.0.2](https://github.com/etbcor/nasin-nanpa/releases/tag/n4.0.2)<br><br>6x4 sitelen pona keyboard whith groups of 5-9 glyphs in each<br><br>features:<br>- basic toki pona words with some additions, sorted into groups<br>- scrollable spacebar<br>- select, copy and paste buttons<br><br>[layout xml](sitelen-toki-pona.xml)<br><br>![](screenshots/sitelen-toki-pona.png)|tested on [Unexpected Keyboard 1.30.3](https://github.com/Julow/Unexpected-Keyboard/releases/tag/1.30.3) with [nasin nanpa 4.0.2](https://github.com/etbcor/nasin-nanpa/releases/tag/n4.0.2)<br><br>6x4 sitelen pona keyboard whith groups of 5-9 glyphs in each<br><br>features:<br>- basic toki pona words with some additions, sorted into groups<br>- [invisible characters](https://github.com/etbcor/nasin-nanpa?tab=readme-ov-file#ligatures) & + - ( ) { }<br>- brackets for nimi<br>- scrollable spacebar<br>- select, copy and paste buttons<br><br>note: pi uses long underline glyph so it should to be closed by ) to stop underline<br><br>[layout xml](sitelen-pona-nasin-nanpa-ucsur.xml)<br><br>![](screenshots/sitelen-pona-nasin-nanpa-ucsur.png)<br>|
+# sitelen pona (nasin nanpa UCSUR)
+
+tested on [Unexpected Keyboard 1.30.3](https://github.com/Julow/Unexpected-Keyboard/releases/tag/1.30.3) with [nasin nanpa 4.0.2](https://github.com/etbcor/nasin-nanpa/releases/tag/n4.0.2)
+
+6x4 sitelen pona keyboard whith groups of 5-9 glyphs in each
+
+features:
+- basic toki pona words with some additions, sorted into groups
+- [invisible characters](https://github.com/etbcor/nasin-nanpa?tab=readme-ov-file#ligatures) & + - ( ) { }
+- brackets for nimi
+- scrollable spacebar
+- select, copy and paste buttons
+
+note: pi uses long underline glyph so it should to be closed by ) to stop underline
+
+[layout xml](sitelen-pona-nasin-nanpa-ucsur.xml)
+
+![](screenshots/sitelen-pona-nasin-nanpa-ucsur.png)
+
+# toki pona (with sitelen pona buttons)
+
+tested on [Unexpected Keyboard 1.30.3](https://github.com/Julow/Unexpected-Keyboard/releases/tag/1.30.3) with [nasin nanpa 4.0.2](https://github.com/etbcor/nasin-nanpa/releases/tag/n4.0.2)
+
+6x4 sitelen pona keyboard whith groups of 5-9 glyphs in each, buttons type full toki pona words instead of UCSUR glyphs
+
+features:
+- basic toki pona words with some additions, sorted into groups
+- scrollable spacebar
+- select, copy and paste buttons
+
+[layout xml](sitelen-toki-pona.xml)
+
+![](screenshots/sitelen-toki-pona.png)
+
